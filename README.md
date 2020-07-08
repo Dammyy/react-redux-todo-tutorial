@@ -1,7 +1,11 @@
 ## React-Redux - TODO App Tutorial
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a simple todo application built using React & Redux. It builds upon the todo application on the [React website] (https://reactjs.org/) homepage .
+This is a simple todo application built using React & Redux. It builds upon the todo application on the [React website](https://reactjs.org/) homepage .
+
+## Install Dependencies
+
+### `yarn install`
 
 ## Available Scripts
 
